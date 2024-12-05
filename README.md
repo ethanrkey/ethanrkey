@@ -1,4 +1,4 @@
-# 👋 Hi! I’m Ethan Key
+# Hi 👋 I’m Ethan Key
 - I'm currently a junior at Boston University studying computer science
 - I'm an aspiring Software Engineener very interested in full stack development
 - The projects I'm working on right now are a Web Accessibility Tool and Global Conflict Visualizer
