@@ -1,6 +1,6 @@
 # Hi 👋 I’m Ethan Key
 - I am a rising senior at Boston University studying computer science
-- Currently, I'm interning at Otodata
+- Currently, I'm interning at Otodata over the summer
 - I'm an aspiring Software Engineener very interested in full stack development, as well as machine learning
 - The project I'm working on right now is a personal stat tracking web app
 
