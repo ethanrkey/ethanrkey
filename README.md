@@ -1,7 +1,7 @@
 # Hi 👋 I’m Ethan Key
 - I am a senior at Boston University studying computer science, graduating in May 2026
 - This past summer, I interned  at Otodata - a tank monitors company based in Montréal, Quebec
-- I'm an aspiring Software Engineer very interested in full stack development and machine learning
+- I'm an aspiring Software Engineer very interested in full stack development, distributed systems, and machine learning
 - I am excited about continuing to learn and applying my technical skills in industry settings
 - I'm open to work and currently searching for New Grad roles, so please feel free to reach out!
 
