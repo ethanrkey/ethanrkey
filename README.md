@@ -3,7 +3,7 @@
 - This past summer, I interned  at Otodata - a tank monitors company based in Montréal, Quebec
 - I'm an aspiring Software Engineer very interested in full stack development, distributed systems, and machine learning
 - I am excited about continuing to learn and applying my technical skills in industry settings
-- I'm open to work and currently searching for New Grad roles, so please feel free to reach out!
+- I'm open to work and currently searching for full New Grad roles, so please feel free to reach out!
 
 [![Top Langs](https://github-readme-stats-jade-mu-13.vercel.app/api/top-langs/?username=ethanrkey&bg_color=101426&text_color=fffefe&langs_count=7)](https://github.com/ethanrkey/github-readme-stats)
 <!---
