@@ -1,9 +1,8 @@
 # Hi 👋 I’m Ethan Key
-- I am a senior at Boston University studying computer science, graduating in May 2026
-- This past summer, I interned  at Otodata - a tank monitors company based in Montréal, Quebec
-- I'm an aspiring Software Engineer very interested in full stack development, distributed systems, and machine learning
-- I am excited about continuing to learn and applying my technical skills in industry settings
-- I'm open to work and currently searching for full-time New Grad roles, so please feel free to reach out!
+- I graduated with a Bachelor's in Computer Science from Boston University in 2026
+- I'm currently a Software Engineer working for Raytheon in Fort Wayne, IN
+- My main interests are full stack software development, distributed systems, and machine learning
+- Feel free to reach out with any inquiries
 <!---
 [![Top Langs](https://github-readme-stats-jade-mu-13.vercel.app/api/top-langs/?username=ethanrkey&bg_color=101426&text_color=fffefe&langs_count=7)](https://github.com/ethanrkey/github-readme-stats)
 
