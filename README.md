@@ -1,5 +1,5 @@
 # Hi 👋 I’m Ethan Key
-- I graduated with a Bachelor's in Computer Science from Boston University in 2026
+- I graduated with a Bachelor's degree in Computer Science from Boston University in 2026
 - I'm currently a Software Engineer working for Raytheon in Fort Wayne, IN
 - My main interests are full stack software development, distributed systems, and machine learning
 - Feel free to reach out with any inquiries!
