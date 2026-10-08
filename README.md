@@ -2,7 +2,7 @@
 - I graduated with a Bachelor's degree in Computer Science from Boston University in 2026
 - I'm currently a Software Engineer working for Raytheon in Fort Wayne, IN
 - My main interests are full stack software development, distributed systems, and machine learning
-- I am currently working on a budgeting web/iOS app, hoping to get it on the app store by the end of the year
+- I am currently working on a budgeting web/iOS app as a side project, hoping to get it on the app store by the end of the year
 - Feel free to reach out with any inquiries!
 <!---
 [![Top Langs](https://github-readme-stats-jade-mu-13.vercel.app/api/top-langs/?username=ethanrkey&bg_color=101426&text_color=fffefe&langs_count=7)](https://github.com/ethanrkey/github-readme-stats)
